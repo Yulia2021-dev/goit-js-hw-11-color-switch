@@ -4,7 +4,7 @@ import refs from '../js/refs';
 refs.startBtn.addEventListener('click', startCangeColor);
 refs.stopBtn.addEventListener('click', stopCangeColor);
 
-let timerId;
+let timerId = null;
 
 function startCangeColor() {
   refs.startBtn.disabled = true;

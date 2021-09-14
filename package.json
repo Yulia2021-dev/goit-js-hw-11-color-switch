@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/KonstantinZakrzhevskyi/goit-js-hw-11-color-switch.git"
+    "url": "git+https://github.com/Yulia2021-dev/goit-js-hw-11-color-switch.git"
   },
   "keywords": [],
-  "author": "KonstantinZakrzhevskyi",
+  "author": "Ulia Kulias ",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/KonstantinZakrzhevskyi/goit-js-hw-11-color-switch/issues"
+    "url": "https://github.com/Yulia2021-dev/goit-js-hw-11-color-switch/issues"
   },
-  "homepage": "https://KonstantinZakrzhevskyi.github.io/goit-js-hw-11-color-switch",
+  "homepage": "https://Yulia2021-dev.github.io/goit-js-hw-11-color-switch",
   "devDependencies": {
     "parcel-bundler": "^1.12.5",
     "parcel-plugin-nuke-dist": "^1.0.1"
